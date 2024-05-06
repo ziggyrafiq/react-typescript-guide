@@ -1,7 +1,7 @@
 # How to Get Started with React and TypeScript: A Beginner's Guide (repo: react-typescript-guide)
 Explore the fundamentals of setting up React applications with TypeScript in this beginner's guide by Ziggy Rafiq. Learn about project structure, component creation, running your app, and configuring TypeScript for enhanced development.
  
- **Read The Article on [C# Corner: How to Get Started with React and TypeScript: A Beginner's Guide ](/}
+ **Read The Article on [C# Corner: How to Get Started with React and TypeScript: A Beginner's Guide ](https://www.c-sharpcorner.com/article/how-to-get-started-with-react-and-typescript-a-beginners-guide/)
 
 ## Getting Started
 Clone this repository to your local machine to get started using the resources:
